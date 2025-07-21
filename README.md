@@ -1,1 +1,1 @@
-Gen AIworkshop
+Gen AI Workshop
